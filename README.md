@@ -1,5 +1,5 @@
 # product-preview-card-component-challenge-Day2
-I have added some comments in my code you would understand easliy just go and read it.
+I have added some comments in my code you would understand easily just go and read it.
 ### Screenshot
 My Final Output
 
